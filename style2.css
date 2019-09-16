@@ -1,0 +1,9 @@
+textarea {
+	width:  400px;
+	height:  300px;
+}
+
+textarea::placeholder {
+	color:  red;
+	font-weight: 600;
+}
