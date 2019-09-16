@@ -1,0 +1,21 @@
+.website {
+   width: 150px;
+   height: 150px;
+   background: lightgrey;
+   border-radius: 5px;
+   transition: width 2s, height 4s;
+   transition-timing-function: linear;
+}
+li{
+	border: 1px solid red;
+}
+a:hover {
+   background-color:black;
+   color: white;
+}
+
+ a {
+text-decoration: none;
+color: green;
+
+}
